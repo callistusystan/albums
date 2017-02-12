@@ -4,7 +4,7 @@ This project is a simple phone app that I made to transition from React for web 
 
 It features a few albums by Taylor Swift obtained using an API call.
 
-![Alt text](/screenshots/screenshot1.png?raw=true "Albums App")
+<img src="screenshots/screenshot1.png" width="240">
 
 ###Usage###
 
