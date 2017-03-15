@@ -6,7 +6,7 @@ It features a few albums by Taylor Swift obtained using an API call.
 
 <img src="screenshots/screenshot1.png" width="240">
 
-###Usage###
+### Usage ###
 
 Requirements:
 
